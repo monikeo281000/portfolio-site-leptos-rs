@@ -1,2 +1,2 @@
-# portfolio-site-vue-js
-personal portfolio site using nuxt js
+# portfolio-site-leptos-rs
+personal portfolio site using Leptos Rust
